@@ -1,0 +1,42 @@
+2018-11-07 22:54:08,158 dlog.py [line:46] INFO: http://localhost:12306/login1
+2018-11-07 22:54:08,158 dlog.py [line:46] INFO: {'username': 'xiaoqiang', 'pwd': '123123'}
+2018-11-07 22:54:08,159 dlog.py [line:46] INFO: {'content-type': 'application/x-www-form-urlencoded'}
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: 200
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: {'error_code': 0, 'reason': 'successed', 'username': 'xiaoqiang1form', 'checkstatus': 'on'}
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: <class 'dict'>
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: {"error_code": 0, "reason": "successed", "username": "xiaoqiang1form", "checkstatus": "on"}
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: 0.010411
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: {"error_code": 0}
+2018-11-07 22:54:08,187 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,188 dlog.py [line:46] INFO: "error_code": 0
+2018-11-07 22:54:08,188 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,188 dlog.py [line:46] INFO: 测试结果通过
+2018-11-07 22:54:08,222 dlog.py [line:46] INFO: http://localhost:12306/login3
+2018-11-07 22:54:08,223 dlog.py [line:46] INFO: {'username': 'xiaoqiang', 'pwd': '123123'}
+2018-11-07 22:54:08,223 dlog.py [line:46] INFO: {'content-type': 'application/json'}
+2018-11-07 22:54:08,235 dlog.py [line:46] INFO: 200
+2018-11-07 22:54:08,235 dlog.py [line:46] INFO: {'error_code': 0, 'reason': 'successed', 'username': 'xiaoqiangjson', 'checkstatus': 'on'}
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: <class 'dict'>
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: {"error_code": 0, "reason": "successed", "username": "xiaoqiangjson", "checkstatus": "on"}
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: 0.008644
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: {"error_code": 0}
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,236 dlog.py [line:46] INFO: "error_code": 0
+2018-11-07 22:54:08,237 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,237 dlog.py [line:46] INFO: 测试结果通过
+2018-11-07 22:54:08,270 dlog.py [line:46] INFO: http://localhost:12306/book_list
+2018-11-07 22:54:08,270 dlog.py [line:46] INFO: {}
+2018-11-07 22:54:08,270 dlog.py [line:46] INFO: None
+2018-11-07 22:54:08,280 dlog.py [line:46] INFO: 200
+2018-11-07 22:54:08,280 dlog.py [line:46] INFO: {'error_code': 0, 'reason': 'successed', 'books': ['小强测试品牌', '小强python自动化测试', '小强软件测试疯狂讲义']}
+2018-11-07 22:54:08,280 dlog.py [line:46] INFO: <class 'dict'>
+2018-11-07 22:54:08,281 dlog.py [line:46] INFO: {"error_code": 0, "reason": "successed", "books": ["小强测试品牌", "小强python自动化测试", "小强软件测试疯狂讲义"]}
+2018-11-07 22:54:08,281 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,281 dlog.py [line:46] INFO: 0.007798
+2018-11-07 22:54:08,281 dlog.py [line:46] INFO: {"error_code": 0}
+2018-11-07 22:54:08,281 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,281 dlog.py [line:46] INFO: "error_code": 0
+2018-11-07 22:54:08,282 dlog.py [line:46] INFO: <class 'str'>
+2018-11-07 22:54:08,282 dlog.py [line:46] INFO: 测试结果通过
